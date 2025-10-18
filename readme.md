@@ -1,6 +1,6 @@
 # Counter Smart Contract 🔢
 
-![Counter Smart Contract](./1FF1EFC2-82B0-42C0-97AB-7F8A1A016934}.png))
+![Counter Smart Contract](./{1FF1EFC2-82B0-42C0-97AB-7F8A1A016934}.png))
 ![Deployment Transaction](./image.png)
 
 A simple, yet powerful decentralized counter application built on the Flow EVM Testnet. This smart contract demonstrates basic state management and interaction patterns in Solidity.
